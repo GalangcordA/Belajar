@@ -1,0 +1,6 @@
+<namespace>
+  Game namespace src
+  <namespace src="namespace.js"></script>
+
+
+</src>
